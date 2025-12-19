@@ -53,7 +53,7 @@ Não é necessária nenhuma instalação (Node.js, npm, etc). Como o projeto uti
 
 Você pode acessar o portfólio rodando diretamente no navegador através do link abaixo:
 
-🔗 **[Acesse o Portfólio Aqui](https://github.com/SergioGregorio/sergiogregorio.github.io/)**
+🔗 **[Acesse o Portfólio Aqui](https://sergiogregorio.github.io/)**
 
 ## 📫 Contato
 
